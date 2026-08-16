@@ -1,0 +1,21 @@
+{
+  "updatedAt": "2026-08-16T08:00:00.000Z",
+  "hero": {
+    "eyebrow": "2026/27 SEASON",
+    "title": "Smarter football predictions.\nSharper match insights.",
+    "subtitle": "Independent match previews, form analysis and predictions for the games that matter.",
+    "cta": "Explore predictions"
+  },
+  "featured": [
+    {"league":"Premier League","home":"Liverpool","away":"Bournemouth","date":"2026-08-22","time":"15:00","prediction":"Home Win","confidence":78,"tip":"Liverpool to win","reason":"Stronger home profile and attacking depth."},
+    {"league":"Premier League","home":"Manchester United","away":"Arsenal","date":"2026-08-23","time":"16:30","prediction":"Over 2.5","confidence":71,"tip":"Over 2.5 goals","reason":"Both sides project well for chance creation."},
+    {"league":"La Liga","home":"Barcelona","away":"Athletic Club","date":"2026-08-23","time":"20:00","prediction":"Home Win","confidence":76,"tip":"Barcelona to win","reason":"Home advantage plus stronger recent attacking numbers."}
+  ],
+  "news": [
+    {"tag":"SEASON WATCH","title":"What to look for in the opening weeks of the new season","excerpt":"Early form can be noisy. We track the indicators that are more useful than the first scorelines.","date":"2026-08-16"},
+    {"tag":"TACTICS","title":"Why defensive transitions could decide the first big fixtures","excerpt":"The first month often exposes how quickly new systems settle.","date":"2026-08-16"},
+    {"tag":"PREDICTION","title":"Our approach: probabilities, not certainty","excerpt":"Every pick carries uncertainty. The site separates confidence from guaranteed outcomes.","date":"2026-08-16"}
+  ],
+  "leagues": ["Premier League","La Liga","Serie A","Bundesliga","Ligue 1","Champions League"],
+  "methodology": ["Recent form","Home/away strength","Goals & chance profile","Squad availability","Tactical matchup","Market-independent confidence"]
+}
